@@ -2,11 +2,12 @@
 **Data Analyst** | **Power BI Specialist** | **Based in Valencia (Spain)**\
 Microsoft Certified: Power BI Data Analyst Associate, PL-300
 
+---
 
 ## 🚀 About me
 I am a Data Analyst with hands-on experience in data modeling, ETL pipelines, and creating interactive dashboards that drive strategic decision-making. Skilled in SQL, Azure Data Lake, Python, and orchestration tools for data processing
 
-
+---
 
 ## 🛠 Tools & Technologies
 - **Data Visualization**: Power BI, Metabase  
@@ -14,7 +15,7 @@ I am a Data Analyst with hands-on experience in data modeling, ETL pipelines, an
 - **Databases**: SQL Server, PostgreSQL, MySQL  
 - **Programming**: Python (Pandas, NumPy, scikit-learn)
 
-
+---
 
 ## 📫 Contact: Xema Sancho
 📧 Email: xemasancho@gmail.com  
