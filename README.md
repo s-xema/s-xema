@@ -1,6 +1,5 @@
 ## Hi there, I'm Xema Sancho! 👋
-**Data Analyst** | **Power BI Specialist** | **Based in Valencia (Spain)**
-
+**Data Analyst** | **Power BI Specialist** | **Based in Valencia (Spain)**\
 Microsoft Certified: Power BI Data Analyst Associate, PL-300
 
 
