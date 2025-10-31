@@ -28,8 +28,8 @@ I am a Data Analyst with hands-on experience in data modeling, ETL pipelines, an
 ---
 
 ## 📫 Contact:
-📧 Email: xemasancho@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
+📧 xemasancho@gmail.com  
+in [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
 🔗 [Portfolio](https://linktr.ee/xemasancho)  
 
 <!--
