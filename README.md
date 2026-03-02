@@ -1,48 +1,64 @@
-## Hi there, I'm Xema Sancho! 👋
-**Data Analyst** | **Power BI Specialist** | **Based in Valencia (Spain)**\
-Microsoft Certified: Power BI Data Analyst Associate, PL-300
+# Hi, I'm Xema Sancho 👋
+
+**Data Analyst · Power BI Specialist · Based in Valencia, Spain 🇪🇸**
+
+I turn raw data into strategic decisions — building end-to-end pipelines, data models,
+and interactive dashboards that help businesses act faster and smarter.
+
+📜 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 
 ---
 
-## 🚀 About me
-I am a Data Analyst with hands-on experience in data modeling, ETL pipelines, and creating interactive dashboards that drive strategic decision-making. Skilled in SQL, Azure Data Lake, Python, and orchestration tools for data processing
+## 🚀 What I do
+
+- 📊 **Dashboard & Reporting** — Design Power BI reports that stakeholders actually use, with clear KPIs and actionable insights
+- 🔧 **ETL & Data Engineering** — Build reliable pipelines with Pentaho, Apache Hop, Airflow and Microsoft Fabric
+- 🧠 **Data Modeling** — Star schemas, relationships, DAX measures optimized for performance
+- 🐍 **Python Analytics** — Data wrangling, EDA and ML with Pandas, NumPy and scikit-learn
+- 🗄️ **SQL** — Complex queries, stored procedures and performance tuning (SQL Server, PostgreSQL, MySQL)
 
 ---
 
+## 🛠️ Tech Stack
 
-## 🛠 Tools & Technologies
-- **Data Visualization**: Power BI, Metabase  
-- **ETL & Data Engineering**: Pentaho, Apache Hop, Microsoft Fabric, Apache Airflow  
-- **Databases**: SQL Server, PostgreSQL, MySQL  
-- **Programming**: Python (Pandas, NumPy, scikit-learn)
+**Visualization**
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+**ETL & Data Engineering**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-ED7D31?style=for-the-badge&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Programming & Cloud**
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Data_Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 📫 Contact:
-📧 xemasancho@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jose-maria-sancho-navarro/)  
-🔗 [Portfolio](https://linktr.ee/xemasancho)  
+## 📂 Featured Projects
 
-<!--
-**s-xema/s-xema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Description | Tech |
+|---------|-------------|------|
+| [📊 Dashboards](https://github.com/s-xema/Dashboards) | Power BI portfolio — sales, operations and KPI dashboards | Power BI, DAX |
+| [⚡ SEE Analysis](https://github.com/s-xema/SEE_Analysis) | Spanish Electricity System — demand, price and generation analysis | T-SQL, Power BI |
+| [🛒 AdventureWorks Analysis](https://github.com/s-xema/AdventureWorks_Analysis) | Sales performance analysis on AdventureWorks dataset | SQL, Power BI |
+| [🍕 Food Delivery Analysis](https://github.com/s-xema/FP20_6Challenge_Project) | Restaurant food delivery analytics — FP20 Challenge | Power BI, DAX |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-maria-sancho-navarro/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/xemasancho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xemasancho@gmail.com)
