@@ -1,5 +1,4 @@
 # Hi, I'm Xema Sancho 👋
-
 **Data Analyst · Power BI Specialist · Based in Valencia, Spain 🇪🇸**
 
 I turn raw data into strategic decisions — building end-to-end pipelines, data models,
@@ -48,9 +47,11 @@ and interactive dashboards that help businesses act faster and smarter.
 
 ## 📂 Featured Projects
 
+> 📊 **[View full Power BI portfolio →](https://github.com/s-xema/Dashboards)**
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📊 Dashboards](https://github.com/s-xema/Dashboards) | Power BI portfolio — sales, operations and KPI dashboards | Power BI, DAX |
+| [🍺 ZetaBeer Analytics](https://github.com/s-xema/ZetaBeer_Analytics) | Craft brewery analysis — production, stock and billing with forecast and scenario simulation | Power BI, DAX, SQL Server |
 | [⚡ SEE Analysis](https://github.com/s-xema/SEE_Analysis) | Spanish Electricity System — demand, price and generation analysis | T-SQL, Power BI |
 | [🛒 AdventureWorks Analysis](https://github.com/s-xema/AdventureWorks_Analysis) | Sales performance analysis on AdventureWorks dataset | SQL, Power BI |
 | [🍕 Food Delivery Analysis](https://github.com/s-xema/FP20_6Challenge_Project) | Restaurant food delivery analytics — FP20 Challenge | Power BI, DAX |
